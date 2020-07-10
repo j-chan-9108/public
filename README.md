@@ -1,2 +1,2 @@
 # public
-my public dir
+public directory
